@@ -102,6 +102,7 @@ h3 {
 .topping-option {
   position: relative;
   margin-bottom: 20px;
+  list-style-type: none;
 }
 
 .topping-option:last-of-type {
