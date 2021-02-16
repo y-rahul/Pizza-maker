@@ -1,2 +1,1 @@
-# Pizza-maker
-Pizza maker with toppings.
+Simple pizza app
